@@ -9,6 +9,4 @@ compiler:
 - gcc
 # Build steps
 script:
-- mkdir build
-- cd build
-- cmake .. && make
+- make
