@@ -10,6 +10,8 @@ int main( )
     cin>>rad; 
     cout<< "Area of the circle is (in m2): "<< PI * rad * rad<<endl; 
     return 0;
+
 // komentarz sprawdzajacy dzialanie git revert
 // drugi komentarz
+// trzeci komentarz
 }  
