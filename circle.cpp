@@ -30,8 +30,6 @@ int main( )
 
 // kom11
 
-// kom12
-
 
 
 
