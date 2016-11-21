@@ -22,3 +22,4 @@ int main( )
 
 // kom7
 
+// kom8
