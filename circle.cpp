@@ -20,6 +20,6 @@ int main( )
 
 // kom6
 
-// kom7
+
 
 // kom8
