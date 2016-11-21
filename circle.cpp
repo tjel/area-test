@@ -11,3 +11,5 @@ int main( )
     cout<< "Area of the circle is (in m2): "<< PI * rad * rad<<endl; 
     return 0;
 }  
+
+// kom1
