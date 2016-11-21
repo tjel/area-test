@@ -32,7 +32,7 @@ int main( )
 
 // kom12
 
-// kom13
+
 
 
 
