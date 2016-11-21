@@ -13,3 +13,4 @@ int main( )
 }  
 
 // kom1
+// kom2
