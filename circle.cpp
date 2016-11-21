@@ -24,11 +24,17 @@ int main( )
 
 // kom8
 
+// kom9
 
+// kom10
 
+// kom11
 
+// kom12
 
+// kom13
 
+// kom14
 
 
 
